@@ -1,6 +1,5 @@
+.idea
 /gradle
-/.idea
-/.gradle
 *.iml
 .gradle
 /local.properties
@@ -9,3 +8,5 @@
 .DS_Store
 /build
 /captures
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+build/
